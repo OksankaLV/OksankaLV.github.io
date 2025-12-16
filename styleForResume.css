@@ -4,6 +4,7 @@ body {
     color: rgb(15, 15, 15);
     font-size: medium;
     font-family: 'Dosis', sans-serif;
+    padding: 20px;
     
 }
 .new-fon, .contact-info{
@@ -33,3 +34,4 @@ p{
     height: 414px;
  
 }
+
